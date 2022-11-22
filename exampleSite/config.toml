@@ -1,4 +1,4 @@
-baseURL = "https://zingy-gecko-6745ca.netlify.app"
+baseURL = "https://crow-blog.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "3"
